@@ -1,0 +1,7 @@
+# Exclude input and output files
+*.pdf
+*.png
+*.PNG
+
+/media/*
+/.env
